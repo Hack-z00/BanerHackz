@@ -1,5 +1,5 @@
 # BanerHack
-Te permite editar tu inició en termux 
+Te permite editar tu  baner
 
 cd BanerHack
 chmod +x *
